@@ -32,8 +32,8 @@ Dan Tong, Qiang Zhang, Yixuan Zheng, Ken Caldeira, Christine Shearer, Chaopeng H
 
 ### Session 3: Equitable, Just Transition
 
-Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                             
-                            
+Shalanda H Baker (2019). ["Anti-Resilience: A Roadmap for Transformational Justice within the Energy System."](https://harvardcrcl.org/wp-content/uploads/sites/10/2019/03/Baker.pdf) *Harvard Civil Rights-Civil Liberties Law Review* 54: 1–48.                               
+                              
 Sandeep Pai, Kathryn Harrison, and Hisham Zerriffi. ["A Systematic Review of the Key Elements of a Just Transition for Fossil Fuel Workers."](https://institute.smartprosperity.ca/transition-for-fossil-fuel-workers) Working paper, Smart Prosperity Institute, April 2020.
 
 Adam Wernick. ["Green Groups Grapple with a History of Racism and Exclusion."](https://theworld.org/stories/2020-08-11/green-groups-grapple-history-racism-and-exclusion) *The World*, Public Radio International, August 11, 2020.
@@ -146,7 +146,7 @@ U.S. Department of Energy. ["Computing America's Offshore Wind Energy Potential
 
 U.S. Department of Energy. ["Simple Levelized Cost of Energy (LCOE) Calculator Documentation"](https://www.nrel.gov/analysis/tech-lcoe-documentation.html) NREL Energy Analysis. Accessed August 23, 2022.
 
-Lazard. [Lazard's Levelized Cost of Energy Analysis 14.0 (PDF)](https://www.lazard.com/media/451419/lazards-levelized-cost-of-energy-version-140.pdf), page 20. October 2020.
+Lazard. [Lazard's Levelized Cost of Energy Analysis 14.0 (PDF)](https://www.lazard.com/media/kwrjairh/lazards-levelized-cost-of-energy-version-140.pdf), page 20. October 2020.
 
 ### Session 14: Distributed Resources
 
@@ -156,7 +156,7 @@ Micah S. Ziegler, Joshua M. Mueller, Gonçalo D. Pereira, Juhyun Song, Marco Fer
 
 Diane Cardwell and Andrew Roberts. ["The Biggest, Strangest 'Batteries.'"](https://www.nytimes.com/2017/06/03/business/energy-environment/biggest-batteries.html) *The New York Times*, June 3, 2017.
 
-Lazard. [Lazard's Levelized Cost of Storage Analysis 6.0 (PDF)](https://www.lazard.com/media/451418/lazards-levelized-cost-of-storage-version-60.pdf), page 20, October 2020.    
+Lazard. [Lazard's Levelized Cost of Storage Analysis 6.0 (PDF)](https://www.lazard.com/media/g3jjbcgs/lazards-levelized-cost-of-storage-version-60-vf2.pdf), page 20, October 2020.    
 
 ### Session 15: Food and Carbon Sinks
 
