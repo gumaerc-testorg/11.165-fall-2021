@@ -57,15 +57,15 @@ The final paper assignment will synthesize what you lean over the semester by co
 
 There are two books for the class. The first is required and the second is optional: 
 
-- Required (free): MacKay, David J.C., 2009. *Sustainable Energy—Without the Hot Air*, 1st ed.. UIT Cambridge Ltd. ISBN: 9780954452933. Available in paperback from your local or global bookseller for $27–50, and/or can be downloaded legally as a PDF or read in webpage format at [http://withouthotair.com/](http://withouthotair.com/).
+- Required (free): MacKay, David J.C., 2009. *Sustainable Energy—Without the Hot Air*, 1st ed.. UIT Cambridge Ltd. ISBN: 9780954452933. Available in paperback from your local or global bookseller for $27–50, and/or can be downloaded legally as a PDF or read in webpage format at {{% resource_link "03f9e188-6fa4-4e64-947b-5cc747918fca" "http://withouthotair.com/" %}}.
 - Optional: Hawken, Paul, ed. 2017. *Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming.* Penguin. ISBN: 9780143130444.
 
 Other papers assigned for each class are listed on the {{% resource_link "c1dcc394-8b93-4ab1-a0b0-eae57ec3b56c" "Readings" %}} page.
 
 I will start most classroom days with a brief discussion about current events related to our reading, and this news service provides terrific updates that will keep you updated on energy, climate, as well as related policies and legislation. You can also sign up in advance for two news services:
 
-- [E&E News](https://www.eenews.net/)
-- [Energy News Network](https://energynews.us/) (U.S. and regional energy news)
+- {{% resource_link "4d27169f-5173-42c8-bdf5-c88212134d6d" "E&E News" %}}
+- {{% resource_link "60cc158b-6124-4db8-96f5-61c8d53e9195" "Energy News Network" %}} (U.S. and regional energy news)
 
 Other excellent climate newsletters are put out by the *New York Times* (Climate Forward), the *New Yorker,* the *Atlantic,* the *Wall Street Journal,* the *Washington Post,* *Time,* etc. It is all too much to read every day, but a valuable way to see what energy and climate people are talking about.
 
@@ -148,8 +148,8 @@ Problem sets and reading questions are due by midnight (11:59 pm) the day before
 
 ### Extensions
 
-Each person is allowed to miss up to 3 problem sets and reading questions, which are assessed automatically. If you miss the midnight deadline, I can't give any extensions for the final paper because grades are due three days after the end of class, so plan ahead for this. In cases of extreme physical or emotional circumstances, any further extensions should be requested from the [Office of Graduate Education](https://oge.mit.edu/); if they decide that an extension is warranted, they will then send me a generic note, which preserves your privacy.
+Each person is allowed to miss up to 3 problem sets and reading questions, which are assessed automatically. If you miss the midnight deadline, I can't give any extensions for the final paper because grades are due three days after the end of class, so plan ahead for this. In cases of extreme physical or emotional circumstances, any further extensions should be requested from the {{% resource_link "e0091cb7-3a23-4ea8-a99d-7e7e94e4a041" "Office of Graduate Education" %}}; if they decide that an extension is warranted, they will then send me a generic note, which preserves your privacy.
 
 ## Academic Integrity
 
-Plagiarism, unauthorized collaboration, cheating, and facilitating academic dishonesty are academic crimes. It is your responsibility as students and scholars to understand the definition of any such activities, and to avoid and discourage them. Engaging in these activities either knowingly or unknowingly may result in severe academic sanctions, and you are therefore expected to familiarize yourself with MIT's [academic integrity policies](https://integrity.mit.edu/).
+Plagiarism, unauthorized collaboration, cheating, and facilitating academic dishonesty are academic crimes. It is your responsibility as students and scholars to understand the definition of any such activities, and to avoid and discourage them. Engaging in these activities either knowingly or unknowingly may result in severe academic sanctions, and you are therefore expected to familiarize yourself with MIT's {{% resource_link "692b9e2b-2c79-4cf3-8bb5-e94bcce699c3" "academic integrity policies" %}}.
